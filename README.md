@@ -32,4 +32,4 @@
 <li>📖 <b><i> Autodidata: </b></i> Documentação + Código aberto + Café ☕
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezFelipe&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezFelipe&layout=compact&theme=tokyonight&hide_border=true)
