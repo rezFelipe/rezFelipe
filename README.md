@@ -26,7 +26,6 @@
 
 <h3> Sobre mim:</h3>
 <p>
-Bem-vindo ao meu diário de evolução. Com ele pretendo registrar todo o meu caminho, principalmente das pedras, ao meu tão sonhado primeiro cargo: Junior Backend Developer.
 <ol>
 <li>
 📚 <b><i>Universidade Anhanguera: </b></i> Curso Desenvolvedor Back-end
