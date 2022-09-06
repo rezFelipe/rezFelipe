@@ -33,3 +33,4 @@ Bem-vindo ao meu diário de evolução. Com ele pretendo registrar todo o meu ca
 <li>📖 <b><i> Autodidata: </b></i> Documentação + Código aberto + Café ☕
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezFelipe&layout=compact&theme=dark)](https://github.com/Akash1362000)
