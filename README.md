@@ -2,7 +2,7 @@
 
 <a align="right" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Bem-vindo+ao+perfil+de+um...;Apaixonado+por+tecnologia!;Autodidata+desde+os+11+anos!;e...+mas+não+menos+importante;Um+disciplinado+programador!"></a>
 
-<p><img align="right" height="500" width="500" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" height="500" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h3 align="left">Fale comigo:</h3>
 <a href="https://www.linkedin.com/in/felipe-rezende-485751245" target="blank"><img align="center"
