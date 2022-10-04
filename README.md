@@ -29,7 +29,7 @@
 <ol>
 <li>
 📚 <b><i>Universidade Anhanguera: </b></i> Curso Desenvolvedor Back-end
-<li>📖 <b><i> Autodidata: </b></i> Documentação + Código aberto + Café ☕
+<li>📖 <b><i> Autodidata: </b></i> Documentação + Open Source + Café ☕
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezFelipe&layout=compact&theme=tokyonight&hide_border=true)
